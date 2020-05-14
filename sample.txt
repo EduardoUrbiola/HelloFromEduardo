@@ -1,1 +1,1 @@
-Hello to the world, from team 2!
+Hello to the world, from class CS-246, team 2!
